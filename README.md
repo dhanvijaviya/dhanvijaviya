@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/dhanvijaviya/dhanvijaviya/blob/main/Banner%20(2).png)
 <h1 align="center">Hi 👋, I'm Dhanvi Javiya</h1>
 <h2 align="center">Student Developer & Creative Designer | Crafting Interactive Experiences with Code and Visuals</h2>
 
